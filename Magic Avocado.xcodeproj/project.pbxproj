@@ -12,6 +12,15 @@
 		6D1C28C41FB3A0E60014E3E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D1C28C21FB3A0E60014E3E0 /* Main.storyboard */; };
 		6D1C28C61FB3A0E60014E3E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D1C28C51FB3A0E60014E3E0 /* Assets.xcassets */; };
 		6D1C28C91FB3A0E60014E3E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D1C28C71FB3A0E60014E3E0 /* LaunchScreen.storyboard */; };
+		6D1C28D11FB3E5D00014E3E0 /* happy-avocado-character-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D1C28D01FB3E5D00014E3E0 /* happy-avocado-character-hi.png */; };
+		6D1C28D31FB3EBEB0014E3E0 /* blart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6D1C28D21FB3EBEB0014E3E0 /* blart.mp3 */; };
+		6D1C28D51FB3ED950014E3E0 /* happy-avocado-character-hi in Resources */ = {isa = PBXBuildFile; fileRef = 6D1C28D41FB3ED950014E3E0 /* happy-avocado-character-hi */; };
+		6DB8DD531FB4CA4B00DF24BE /* explosion5.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DB8DD4D1FB4CA4A00DF24BE /* explosion5.png */; };
+		6DB8DD541FB4CA4B00DF24BE /* explosion2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DB8DD4E1FB4CA4A00DF24BE /* explosion2.png */; };
+		6DB8DD551FB4CA4B00DF24BE /* explosion4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DB8DD4F1FB4CA4A00DF24BE /* explosion4.png */; };
+		6DB8DD561FB4CA4B00DF24BE /* explosion6.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DB8DD501FB4CA4A00DF24BE /* explosion6.png */; };
+		6DB8DD571FB4CA4B00DF24BE /* explosion1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DB8DD511FB4CA4B00DF24BE /* explosion1.png */; };
+		6DB8DD581FB4CA4B00DF24BE /* explosion3.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DB8DD521FB4CA4B00DF24BE /* explosion3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		6D1C28C51FB3A0E60014E3E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D1C28C81FB3A0E60014E3E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D1C28CA1FB3A0E60014E3E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D1C28D01FB3E5D00014E3E0 /* happy-avocado-character-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "happy-avocado-character-hi.png"; sourceTree = "<group>"; };
+		6D1C28D21FB3EBEB0014E3E0 /* blart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = blart.mp3; sourceTree = "<group>"; };
+		6D1C28D41FB3ED950014E3E0 /* happy-avocado-character-hi */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "happy-avocado-character-hi"; sourceTree = "<group>"; };
+		6DB8DD4D1FB4CA4A00DF24BE /* explosion5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion5.png; sourceTree = "<group>"; };
+		6DB8DD4E1FB4CA4A00DF24BE /* explosion2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion2.png; sourceTree = "<group>"; };
+		6DB8DD4F1FB4CA4A00DF24BE /* explosion4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion4.png; sourceTree = "<group>"; };
+		6DB8DD501FB4CA4A00DF24BE /* explosion6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion6.png; sourceTree = "<group>"; };
+		6DB8DD511FB4CA4B00DF24BE /* explosion1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion1.png; sourceTree = "<group>"; };
+		6DB8DD521FB4CA4B00DF24BE /* explosion3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explosion3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +72,18 @@
 		6D1C28BD1FB3A0E60014E3E0 /* Magic Avocado */ = {
 			isa = PBXGroup;
 			children = (
+				6D1C28D41FB3ED950014E3E0 /* happy-avocado-character-hi */,
+				6D1C28D01FB3E5D00014E3E0 /* happy-avocado-character-hi.png */,
 				6D1C28BE1FB3A0E60014E3E0 /* AppDelegate.swift */,
 				6D1C28C01FB3A0E60014E3E0 /* ViewController.swift */,
 				6D1C28C21FB3A0E60014E3E0 /* Main.storyboard */,
+				6DB8DD511FB4CA4B00DF24BE /* explosion1.png */,
+				6DB8DD4E1FB4CA4A00DF24BE /* explosion2.png */,
+				6DB8DD521FB4CA4B00DF24BE /* explosion3.png */,
+				6DB8DD4F1FB4CA4A00DF24BE /* explosion4.png */,
+				6DB8DD4D1FB4CA4A00DF24BE /* explosion5.png */,
+				6DB8DD501FB4CA4A00DF24BE /* explosion6.png */,
+				6D1C28D21FB3EBEB0014E3E0 /* blart.mp3 */,
 				6D1C28C51FB3A0E60014E3E0 /* Assets.xcassets */,
 				6D1C28C71FB3A0E60014E3E0 /* LaunchScreen.storyboard */,
 				6D1C28CA1FB3A0E60014E3E0 /* Info.plist */,
@@ -124,8 +151,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				6D1C28C91FB3A0E60014E3E0 /* LaunchScreen.storyboard in Resources */,
+				6D1C28D31FB3EBEB0014E3E0 /* blart.mp3 in Resources */,
+				6D1C28D51FB3ED950014E3E0 /* happy-avocado-character-hi in Resources */,
+				6DB8DD531FB4CA4B00DF24BE /* explosion5.png in Resources */,
+				6DB8DD561FB4CA4B00DF24BE /* explosion6.png in Resources */,
+				6DB8DD541FB4CA4B00DF24BE /* explosion2.png in Resources */,
+				6DB8DD551FB4CA4B00DF24BE /* explosion4.png in Resources */,
+				6D1C28D11FB3E5D00014E3E0 /* happy-avocado-character-hi.png in Resources */,
 				6D1C28C61FB3A0E60014E3E0 /* Assets.xcassets in Resources */,
+				6DB8DD581FB4CA4B00DF24BE /* explosion3.png in Resources */,
 				6D1C28C41FB3A0E60014E3E0 /* Main.storyboard in Resources */,
+				6DB8DD571FB4CA4B00DF24BE /* explosion1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
